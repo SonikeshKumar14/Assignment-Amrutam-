@@ -33,13 +33,8 @@ Clean and maintainable code structure
 
 ## 📂 Folder Structure
 
-src/
-├── assets/ # Images and icons
-├── components/ # Reusable components (Navbar, Sidebar, commission, dashboard ...etc.)
-├── pages/ # All pages used in routing
-├── App.js # handle routing
-├── main.jsx 
-└── index.css # css styling
+<img width="315" height="736" alt="image" src="https://github.com/user-attachments/assets/c9356791-e52e-44fe-b121-a2214c685b93" />
+
 
 ## How to Run Locally
 git clone https://github.com/SonikeshKumar14/Assignment-Amrutam-.git
