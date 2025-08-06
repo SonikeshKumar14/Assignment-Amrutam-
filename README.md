@@ -37,14 +37,14 @@ Clean and maintainable code structure
 
 
 ## How to Run Locally
-git clone https://github.com/SonikeshKumar14/Assignment-Amrutam-.git
-cd Assignment-Amrutam-
-npm install
-npm run dev
+### git clone https://github.com/SonikeshKumar14/Assignment-Amrutam-.git
+### cd Assignment-Amrutam-
+### npm install
+### npm run dev
 
 ## Links
-Live Link: - https://zesty-twilight-4382f3.netlify.app
-YT Link(you can view in video): https://youtu.be/CqPoyRoVeAU
+### Live Link: - https://zesty-twilight-4382f3.netlify.app
+### YT Link(you can view in video): https://youtu.be/CqPoyRoVeAU
 
 made by Sonikesh
 🙏 Thanks you I hope you give me any feedback about selection  --!
