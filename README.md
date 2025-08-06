@@ -12,12 +12,12 @@ This is a React.js-based frontend implementation of the **Admin Portal Task 3** 
 
 ## 📋 Features Implemented
 
-# Built 10 responsive pages based on the Figma design  
-# Mobile-first design using Tailwind CSS  
-# Routing using `react-router-dom`  
-# SEO optimization using `react-helmet`  
-# Reusable components  
-# Clean and maintainable code structure
+Built 10 responsive pages based on the Figma design  
+Mobile-first design using Tailwind CSS  
+Routing using `react-router-dom`  
+SEO optimization using `react-helmet`  
+Reusable components  
+Clean and maintainable code structure
 
 ---
 
@@ -50,5 +50,5 @@ npm run dev
 ## Links
 Live Link: - https://zesty-twilight-4382f3.netlify.app/customization/app
 
-# made by Sonikesh
+made by Sonikesh
 🙏 Thanks you I hope you give me any feedback about selection  --!
