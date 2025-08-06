@@ -48,7 +48,7 @@ npm install
 npm run dev
 
 ## Links
-Live Link: - https://zesty-twilight-4382f3.netlify.app/affiliate/dashboard
+Live Link: - https://zesty-twilight-4382f3.netlify.app
 
 made by Sonikesh
 🙏 Thanks you I hope you give me any feedback about selection  --!
